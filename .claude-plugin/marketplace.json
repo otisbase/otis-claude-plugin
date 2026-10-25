@@ -1,0 +1,18 @@
+{
+  "name": "otis",
+  "description": "The Otis plugin: skills for client billing with the Otis MCP server.",
+  "owner": {
+    "name": "Otisbase",
+    "url": "https://otisbase.com"
+  },
+  "plugins": [
+    {
+      "name": "otis",
+      "source": "./",
+      "description": "Free business records through your AI: clients, work, expenses, invoices, payments, timers, business settings, tax settings and export.",
+      "version": "0.4.0",
+      "category": "productivity",
+      "homepage": "https://otisbase.com/skills"
+    }
+  ]
+}
